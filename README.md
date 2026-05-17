@@ -1,4 +1,4 @@
-# Myzabo: Virtual Art Gallery & Cultural Hub (2009)
+# Myzabo: Virtual Art Gallery & Cultural Hub
 
 An interactive, multimedia web platform designed to host curated online art exhibitions, foster community discussion, and provide educational resources.
 
